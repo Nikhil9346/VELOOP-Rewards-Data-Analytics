@@ -1,0 +1,24 @@
+# VELOOP Rewards Internship — Day 1 Notes
+
+**Project goal:**
+ 
+Understand the VELOOP Rewards assignment and plan the analytics work.
+
+
+**Main work areas:**
+
+- Product and data audit
+- User, earning, reward, wallet and withdrawal analytics
+- Referral and engagement analytics
+- Event tracking plan
+- Data dictionary and data model
+- KPI catalogue and data quality checks
+- Dashboard design
+- Developer handoff, pipeline, privacy and governance
+- Final report and implementation backlog
+
+**Working rules:**
+
+1. Keep original Excel files unchanged.
+2. Record assumptions separately from confirmed facts.
+3. Clearly label simulated data and results.
